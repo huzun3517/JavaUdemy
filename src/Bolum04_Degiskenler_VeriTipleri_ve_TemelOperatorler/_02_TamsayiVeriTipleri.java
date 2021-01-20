@@ -34,7 +34,7 @@ public class _02_TamsayiVeriTipleri {
          /*
         short j = 1000;
 
-        int i = j / 2;  // short değerini inte çeviriyor ve int değerine bölüyor. Sonra sonucu inte atıyor.
+        int i = j / 2;  // short değerini inte çeviriyor ve int değerine bölüyor. Sonra sonucu int e atıyor.
 
         System.out.println(i);
 
@@ -60,8 +60,7 @@ public class _02_TamsayiVeriTipleri {
         byte a = 100;
 
         byte b = (a / 2); // parantez içinde a byte değeri int değerine çevrilir ve bölüm yapılır.
-                         // Çıkan sonuç int değeridir. Sonra bu int değeri byte b olarak atanamaz. Kayıp olacağı
-                        // için java hata verir.
+                         // Çıkan sonuç int değeridir. Sonra bu int değeri byte b olarak atanamaz. Kayıp olacağı için java hata verir.
 
 
         byte a = 100;

@@ -46,10 +46,8 @@ public class _07_InputAlma {
 
         if (scanner.hasNextInt()) {
 
-
             int sayi = scanner.nextInt();
             System.out.println("Sayı: " + sayi);
-
         }
 
         else {

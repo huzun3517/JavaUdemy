@@ -81,23 +81,5 @@ public class Main {
         if (b1.equals(b2)) {
             System.out.println("Eşitler");  // b1 ile b2 nin içeriği aynıdır. Güvenli.
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }

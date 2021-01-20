@@ -3,6 +3,7 @@ package Bolum04_Degiskenler_VeriTipleri_ve_TemelOperatorler;
 public class _03_Float_Double {
 
     public static void main(String[] args) {
+
         // Double : 64 bit - 8 bit
         // Float  : 32 bit - 4 bit
 

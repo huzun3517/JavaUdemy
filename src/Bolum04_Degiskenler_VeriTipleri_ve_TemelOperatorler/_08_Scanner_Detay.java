@@ -8,10 +8,9 @@ public class _08_Scanner_Detay {
 
         Scanner scanner = new Scanner(System.in);
 
-        /*
-
-        int yas = scanner.nextInt(); // Yaş değeri girildikten sonra Enter a basınca nextLine değerini almadan
-                                    // alt satıra geçiyor. Bunu önlemek için:
+/*
+        int yas = scanner.nextInt();
+        // Yaş değeri girildikten sonra Enter a basınca nextLine değerini almadan alt satıra geçiyor. Bunu önlemek için:
 
         scanner.nextLine();  // Dummy
 

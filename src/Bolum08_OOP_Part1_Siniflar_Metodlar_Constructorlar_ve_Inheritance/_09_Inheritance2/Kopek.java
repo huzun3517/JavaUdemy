@@ -20,6 +20,11 @@ public class Kopek extends  Hayvan {
 
     }
 
+    @Override
+    public void harekete_gec(int hiz) {
+        System.out.println("Köpek " + hiz + " ile hareket ediyor...");
+    }
+
     public void kos(int hiz) {
         System.out.println("Köpek koşuyor...");
 
