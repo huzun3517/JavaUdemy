@@ -1,4 +1,4 @@
-package Bolum11_Interfaceler_AbstractClasslar_ve_InnerClasslar.Proje_Matematik_ve_Fizik_Problemleri;
+package Bolum11_Interfaceler_AbstractClasslar_ve_InnerClasslar._11_Proje_Matematik_ve_Fizik_Problemleri;
 
 public class Problem {
 
